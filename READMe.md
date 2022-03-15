@@ -5,7 +5,7 @@ This app attempts to support the popular coupon types used by any/all websites t
 It does so by using a concept called <b>RuleSets  </b>. These makes addition of new coupon types easy and affordable to change.
 
 When you create a coupon, you specify 3 following things:
-![image](img_2.png|width=100px)
+<img src="img_2.png" width="600">
 
 Every coupon has to satisfy three basic properties to be valid:
 * Validity RuleSet - specifies duration during which a coupon is valid
