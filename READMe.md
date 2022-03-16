@@ -1,4 +1,4 @@
-## Coupon Rule Based Engine ###
+## Rule Based Coupon Engine ###
 
 This app is built to create a flexible system for coupon creation for any ecommerce product.
 This app attempts to support the popular coupon types used by any/all websites today.
